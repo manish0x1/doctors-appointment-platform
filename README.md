@@ -8,7 +8,7 @@ A full-stack healthcare web application that simplifies the process of booking a
 ## 🚀 Live Demo
 
 👉 [Visit the App](http://localhost:3000/)  
-Made with 💗 by [Manish Mahawar](https://github.com/yourusername)
+Made with 💗 by [Manish Mahawar]
 
 ---
 
@@ -108,12 +108,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## 💬 Feedback
-
 
 
 ```
 
----
-
-Want help writing the `.env.example` file or setting up Vonage credentials securely? I can walk you through that too.
