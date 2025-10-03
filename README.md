@@ -1,6 +1,4 @@
-Absolutely, Manish! Here's a polished and professional `README.md` tailored for your full-stack Doctors Appointment Platform built with Next.js, Vonage, Tailwind CSS, Prisma, and Shadcn UI:
 
----
 
 ```markdown
 # 🩺 Doctors Appointment Platform
@@ -112,7 +110,7 @@ This project is licensed under the MIT License.
 
 ## 💬 Feedback
 
-If you have suggestions or feedback, feel free to reach out via [GitHub Issues](https://github.com/yourusername/doctors-appointment-platform/issues) or [LinkedIn](https://linkedin.com/in/yourprofile).
+
 
 ```
 
